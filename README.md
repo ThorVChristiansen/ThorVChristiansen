@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThorChristiansen2
-- 👀 I’m interested in Computer Vision, Rendering and Machine Learning
-- 🌱 I’m currently learning Rendering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Geometry Processing, Computer Vision, Rendering and Machine Learning
+- 🌱 I’m currently learning machine learning - very meta
+- 💞️ I’m looking to collaborate on neural representation of geometric shapes
 - 📫 How to reach me s173949@student.dtu.dk
 
 <!---
